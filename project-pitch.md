@@ -3,7 +3,7 @@
 #####Explain the goals of your project.
 
 
-Young adults with cancer are often overlooked because they’re between pediatric and adult cancer, even though cancer is 6 times more likely in adolescents and young adults than it is in children. Many larger cancer organizations do not provide young adult direct patient services or reseearch funding. Thus, the survivorship and support needs of this age group are the least studied and funded - often leading to a delayed diagnosis and lower quality of care. 
+Young adults with cancer are often overlooked because they’re between pediatric and adult cancer, even though cancer is 6 times more likely in adolescents and young adults than it is in children. Many larger cancer organizations do not provide young adult direct patient services or research funding. Thus, the survivorship and support needs of this age group are the least studied and funded - often leading to a delayed diagnosis and lower quality of care. 
 
 The goal of this visualization would be to help cancer researchers decide where funding should be allocated for future cancer research by analyzing cancer trends among common specific age groups.
 
