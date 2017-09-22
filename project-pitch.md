@@ -3,7 +3,7 @@
 #####Explain the goals of your project.
 
 
-With larger cancer research organizations - a donors money is going to a black box. impacting - making them less likely  to donate. The goal of this visualization would be to help the public make more targeted tangible donations. What geographic regons in the US need more funding for cancer care? What age group or disease type needs more funding?
+With larger cancer research organizations - a donors money is going to a black box. People do not know whose lives they're impacting - making them less likely  to donate. The goal of this visualization would be to help the public make more targeted tangible donations. What geographic regons in the US need more funding for cancer care? What age group or disease type needs more funding?
 
 
 
