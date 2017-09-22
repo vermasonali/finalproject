@@ -25,7 +25,7 @@ I am considering using the data sets available online national cancer databases 
 
 
 #####Building from these questions, provide an initial outline of how you intend the visualize the data, describing the charts/maps you are considering.
-I want to compare different cancer statistics in childhood, adolescen, and young adult cancer.
+I want to compare different cancer statistics in childhood, adolescent, and young adult cancer.
 
 This would involve creating an interactive visualization with filters for the different variables: age group, new cancer cases per 100,000, cancer deaths per 100,000, type of cancer, and total # of clinical trials by state.
 
